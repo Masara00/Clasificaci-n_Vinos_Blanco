@@ -1,14 +1,17 @@
 # Clasificaci-n_Vinos_Blanco
 
 PROBLEMA:
+
 En este proyecto de machine learning vamos a intentar sacar si un vino blanco cumple los requisitios de una bodega antes de llevarlo a producción.
 Para ellos vamos a analizar las propiedades de algunas variables fisico-químicas de los mismos.
 Los modelos utilizados son de tipo clasificación y supervisados.
 
 OBTENCIÓN DE DATOS:
+
 Los datos han sido sacados de https://www.kaggle.com/code/taha07/wine-quality-prediction-data-analysis/data
 
 PROCESAMIENTO DEL DATASET:
+
 1- Los datos obtenidos son tanto de vino tinto, como de blanco, por lo que lo primero que haremos es quedarnos solo con estos últimos.
    Las características fisico-químicas de ambos son muy diferente, por lo que tenemos que dividirlos.
 
