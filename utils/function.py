@@ -1,4 +1,4 @@
-from scipy.stats import iqr
+from scipy.stats import iqr 
 import numpy as np
 
 def outliers_quantie(df, feature, param=1.5):  
