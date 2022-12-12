@@ -1,4 +1,4 @@
-# Clasificaci-n_Vinos_Blanco
+# Clasificador de vinos blanco
 
 PROBLEMA:
 
